@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1550994252 source:c:\users\1609\documents\coding projects\sudoku\sudoku.c
+	"sudoku.h"
+
+1550809369 c:\users\1609\documents\coding projects\sudoku\sudoku.h
+	"libs.h"
+	"assets.h"
+
+1549509593 c:\users\1609\documents\coding projects\sudoku\libs.h
+	<SDL2/SDL.h>
+	<stdbool.h>
+	<stdlib.h>
+	<stdio.h>
+
+1550994215 source:c:\users\1609\documents\coding projects\sudoku\main.c
+	"sudoku.h"
+	"generator.h"
+
+1550802503 c:\users\1609\documents\coding projects\sudoku\assets.h
+	"libs.h"
+
+1550802402 source:c:\users\1609\documents\coding projects\sudoku\assets.c
+	"assets.h"
+
+1550994468 source:c:\users\1609\documents\coding projects\sudoku\generator.c
+	"generator.h"
+
+1550454119 c:\users\1609\documents\coding projects\sudoku\generator.h
+	"sudoku.h"
+
+1550459800 source:c:\users\1609\documents\coding projects\sudoku\debug.c
+	"debug.h"
+
+1550459800 c:\users\1609\documents\coding projects\sudoku\debug.h
+	"generator.h"
+	"sudoku.h"
+
